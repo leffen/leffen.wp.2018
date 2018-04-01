@@ -1,0 +1,4 @@
+data/mysql
+data/log
+wp-content/uploads
+.env
